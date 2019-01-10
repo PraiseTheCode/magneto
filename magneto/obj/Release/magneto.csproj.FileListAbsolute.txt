@@ -1,0 +1,10 @@
+D:\0TELLpract\magneto\magneto\bin\Release\magneto.exe
+D:\0TELLpract\magneto\magneto\bin\Release\magneto.pdb
+D:\0TELLpract\magneto\magneto\obj\Release\ResolveAssemblyReference.cache
+D:\0TELLpract\magneto\magneto\obj\Release\magneto.exe
+D:\0TELLpract\magneto\magneto\obj\Release\magneto.pdb
+D:\0TELLpract\magneto2\magneto\obj\Release\magneto.exe
+D:\0TELLpract\magneto2\magneto\obj\Release\magneto.pdb
+D:\0TELLpract\magneto2\magneto\bin\Release\magneto.exe
+D:\0TELLpract\magneto2\magneto\bin\Release\magneto.pdb
+D:\0TELLpract\magneto2\magneto\obj\Release\ResolveAssemblyReference.cache

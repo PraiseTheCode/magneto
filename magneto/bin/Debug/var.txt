@@ -1,0 +1,9 @@
+GRID_25_28_1.dat
+D:/spec0911/ToReduce21/mod10f.txt
+3
+78
+39
+100
+3000
+8000
+1
